@@ -1,4 +1,4 @@
-Small Talk Trainer
+# Small Talk Trainer
 
 Building AI course project
 
